@@ -21,4 +21,6 @@ let s8 = 5;
 s8 = true;
 s8 = "String1";
 s8 = null;
+let s9 = "hello";
+s9 = 5;
 //# sourceMappingURL=variables.js.map

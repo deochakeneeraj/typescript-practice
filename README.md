@@ -10,3 +10,6 @@ Why typescript :-
 4. Compiles to plain javascript
 5. Cross platform
 6. Open source
+
+Learn package.json
+learn webpack
