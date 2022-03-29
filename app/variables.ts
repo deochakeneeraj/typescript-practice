@@ -55,3 +55,15 @@ s9 = 5;
 // Now we can assign any number of data types to a variable
 var s10: string | null | undefined = null;
 
+/**
+ * Type assertions 
+ * Method 1 :- <datatype>variable
+ * Method 2 :- variable as datatype
+ */
+
+let value: any = 5;
+let value1: number = <number>value;
+console.log(value1);
+
+let value2: number = value as number;
+console.log(value2);

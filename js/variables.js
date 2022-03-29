@@ -23,4 +23,10 @@ s8 = "String1";
 s8 = null;
 let s9 = "hello";
 s9 = 5;
+var s10 = null;
+let value = 5;
+let value1 = value;
+console.log(value1);
+let value2 = value;
+console.log(value2);
 //# sourceMappingURL=variables.js.map
